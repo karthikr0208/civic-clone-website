@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: honda-civic-clone
+    env: static
+    staticPublishPath: .
+    buildCommand: ""
